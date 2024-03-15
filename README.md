@@ -35,6 +35,6 @@ A collection of high-quality **(200+ clips)** UI audio effects:
 Just use this effects as single audio-sources or see my <a href="https://github.com/DevsDaddy/UIFramework">UI</a> and/or <a href="https://github.com/DevsDaddy/AudioFramework">Audio Framework</a> or <a href="https://github.com/DevsDaddy/OneUIKit">OneUI Kit</a>.
 By default all audio clips compressed using Vorbis 40% in Unity.
 
-## Support Me
-Like my libraries or assets?
-<a href="https://boosty.to/devsdaddy" target="_blank">Buy me a coffee</a>.
+## Join Community
+- <a href="https://discord.gg/xuNTKRDebx">Discord Community</a>
+- <a href="https://boosty.to/devsdaddy">Buy me a Beer (Boosty)</a>
